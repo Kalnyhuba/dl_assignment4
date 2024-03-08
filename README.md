@@ -1,7 +1,8 @@
 # Fourth group assignment for Deep Learning Course
 
-Group members: 
-Aziza Shkuranova
+Group members:
+
+Aziza Shukranova
 
 Imola Szilágyi
 
